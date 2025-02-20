@@ -19,5 +19,6 @@ Welcome to Novalearn, a dynamic and engaging learning website designed using HTM
  <br>
 ✔️Added an trusties section.
 <br>
-
+Repo Lnk : https://github.com/Nitishshukla1608/NovaLearln_web.git
+<br>
 #HTML #CSS # FRONTEND # NOVALEARN #WEB PAGE 
